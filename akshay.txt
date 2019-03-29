@@ -1,4 +1,4 @@
-My First Training Exercise on Git Hub
+Git rebase exercise
 
 
 
